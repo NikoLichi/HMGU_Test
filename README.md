@@ -1,2 +1,2 @@
 # HMGU_Test
-YC test
+YC tutorial at ITG Helmholtz
